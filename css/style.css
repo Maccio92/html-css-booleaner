@@ -26,8 +26,8 @@ h3{color: #ffffff;}
 #autore{color: #8c8c8c;}
 
 /* Margini */
-.img, table, h2{margin-top: 3%;}
-.blocco{margin-top: 5%;}
+.img, table, h2{margin-top: 2%;}
+.blocco{margin-top: 3%;}
 
 /* Tabella */
 table{width: 100%;}
