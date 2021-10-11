@@ -1,14 +1,13 @@
 *{margin: 0;}
-body{
-   
-    width: 100%;
-}
+body{width: 100%;}
+
 /* header */
 #header{   
     background-size:40%;
     background-color:#4da1ff;
     background-image: url(../img/pattern.png);
     }
+
 /* logo  */
 #logo{
     width: 20%;
@@ -18,10 +17,19 @@ body{
 
 /* main  */
 main{margin: 1%;}
+
+/* Blocchi Testo */
 h1{font-size: 40px;}
+
 #author{color: #4da1ff;}
 #data{font-size: 12px;}
 .autore{color: #8c8c8c;}
 .img, table{margin-top: 3%;}
 #didascalia{font-size: 12px;}
 .blocco{margin-top: 5%;}
+
+/* Tabella */
+table{width: 100%;}
+th{width: 25%; background-color: #1aaae6;}
+#col-3{width: 50%;}
+.riga{background-color: #b2e6f2;}
