@@ -1,0 +1,19 @@
+*{margin: 0;}
+body{
+   
+    width: 100%;
+}
+/* header */
+#header{   
+    background-size:40%;
+    background-color:#4da1ff;
+    background-image: url(../img/pattern.png);
+    }
+/* logo  */
+#logo{
+    width: 20%;
+    margin-top: 3%;
+    padding: 1%;
+}
+
+main{margin: 1%;}
