@@ -22,4 +22,6 @@ h1{font-size: 40px;}
 #author{color: #4da1ff;}
 #data{font-size: 12px;}
 .autore{color: #8c8c8c;}
-.img{margin-top: 3%;}
+.img, table{margin-top: 3%;}
+#didascalia{font-size: 12px;}
+.blocco{margin-top: 5%;}
