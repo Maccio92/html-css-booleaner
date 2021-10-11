@@ -16,4 +16,10 @@ body{
     padding: 1%;
 }
 
+/* main  */
 main{margin: 1%;}
+h1{font-size: 40px;}
+#author{color: #4da1ff;}
+#data{font-size: 12px;}
+.autore{color: #8c8c8c;}
+.img{margin-top: 3%;}
